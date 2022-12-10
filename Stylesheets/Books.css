@@ -1,5 +1,6 @@
 .photo{
 padding-top: 110px;
+align-content: flex-start;
 
 }
 .rot{
@@ -8,19 +9,23 @@ padding-top: 110px;
 .uty{
 padding-top: 7%;
   padding-left: 10%;
+  align-content: flex-start;
 }
 .rty{
 padding-top: 7%;
 padding-left: 6%;
+align-content: flex-start;
 }
 .pty{
   padding-left: 5%;
   padding-top:7%;
+  align-content: flex-start;
 }
 .sty
 {
   padding-left: 5%;
   padding-top:7%;
+  align-content: flex-start;
 }
 body{
   background-color: #DBD5FB
