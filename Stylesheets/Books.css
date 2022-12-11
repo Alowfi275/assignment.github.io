@@ -1,3 +1,8 @@
+li
+{
+  display: inline;
+margin-right: 15px;
+font-size: 25px;}
 .photo{
 padding-top: 110px;
 align-content: flex-start;
@@ -24,15 +29,16 @@ align-content: flex-start;
 .sty
 {
   padding-left: 5%;
-  padding-top:7%;
+padding-top: 20%;
   align-content: flex-start;
 }
 body{
   background-color: #DBD5FB
 }
 .mon{
+  padding-bottom: 20%;
   text-align:left;
-padding-top: 20%;
+
 }
 .lol{
   font-size: 30px;
